@@ -4,14 +4,20 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #fffefe;
+    background-image: url("https://cdn.dribbble.com/users/811229/screenshots/4772167/pokeball3.gif");
+}
+
+h1 {
+    text-align: center
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #fffefe;
+    background-repeat: repeat-y;
 }
 
 @media screen and (min-width: 992px) {
